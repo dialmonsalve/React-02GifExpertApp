@@ -3,9 +3,9 @@
 
 ### This is the second project of the course _"React: De cero a experto"_ created by The Udemy's Professor: Fernando Herrera. Inside it are two different directories
 
-In the first one the code was written in<a href="https://github.com/dialmonsalve/React-02counterApp/tree/master/js" class="language--js">javascript</a> in the same way as the teacher.  
+In the first one the code was written in<a href="https://github.com/dialmonsalve/React-02GifExpertApp/tree/master/js" class="language--js">javascript</a> in the same way as the teacher.  
 
-The second directory is the same project but it is rebuilt in <a href="https://github.com/dialmonsalve/React-02counterApp/tree/master/ts/src" class="language--ts">typescript</a> by my
+The second directory is the same project but it is rebuilt in <a href="https://github.com/dialmonsalve/React-02GifExpertApp/tree/master/ts" class="language--ts">typescript</a> by my
 
 These are the differences between the teacher's project vs mine in typescript
  
@@ -26,7 +26,7 @@ These are the differences between the teacher's project vs mine in typescript
 
 ## 💡 Project Structure
 
-This is the path of the <a href="https://github.com/dialmonsalve/React-02counterApp/tree/master/js" class="language--js">js</a> project. There you will see the following folders and files:
+This is the path of the <a href="https://github.com/dialmonsalve/React-02GifExpertApp/tree/master/js" class="language--js">js</a> project. There you will see the following folders and files:
 
 <div class="path-js">
 
@@ -39,7 +39,7 @@ This is the path of the <a href="https://github.com/dialmonsalve/React-02counter
 ```
 </div>
 
-This is the path of the <a href="https://github.com/dialmonsalve/React-02counterApp/tree/master/ts/src" class="language--ts">ts</a> project. There you will see the following folders and files:
+This is the path of the <a href="https://github.com/dialmonsalve/React-02GifExpertApp/tree/master/ts" class="language--ts">ts</a> project. There you will see the following folders and files:
 
 <div class="path-ts">
 
