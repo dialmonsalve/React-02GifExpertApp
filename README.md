@@ -3,7 +3,7 @@
 
 ### This is the second project of the course _"React: De cero a experto"_ created by The Udemy's Professor: Fernando Herrera. Inside it are two different directories
 
-In the first one the code was written in<a href="https://github.com/dialmonsalve/React-02GifExpertApp/tree/master/js" class="language--js">javascript</a> in the same way as the teacher.  
+In the first one the code was written in <a href="https://github.com/dialmonsalve/React-02GifExpertApp/tree/master/js" class="language--js">javascript</a> in the same way as the teacher.  
 
 The second directory is the same project but it is rebuilt in <a href="https://github.com/dialmonsalve/React-02GifExpertApp/tree/master/ts" class="language--ts">typescript</a> by my
 
